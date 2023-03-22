@@ -19,6 +19,9 @@
  Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
 
 ![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/firing_node_exporter.png)
+![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/alertmanager.png)
+![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/alertmanager1.png)
+
 
 
 ### Задание 3
@@ -28,8 +31,8 @@
 Требования к результату
  приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
-![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/tragets.png)
-![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/traget.png)
+![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/targets.png)
+![Prometheus2](https://github.com/gaming4funNel/srlb-homework-9-05/blob/master/img/target.png)
 
 ## Дополнительные задания (со звездочкой*)
 
